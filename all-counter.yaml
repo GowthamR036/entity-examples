@@ -10,3 +10,8 @@ spec:
     - ./counter-app/service/api/catalog-info.yaml
     - ./counter-app/service/lib/catalog-info.yaml
     - ./counter-app/service/db/catalog-info.yaml
+    - ./Inventory-app/catalog-info.yaml
+    - ./Inventory-app/service/catalog-info.yaml
+    - ./Inventory-app/service/api/catalog-info.yaml
+    - ./Inventory-app/service/lib/catalog-info.yaml
+    - ./Inventory-app/service/db/catalog-info.yaml
